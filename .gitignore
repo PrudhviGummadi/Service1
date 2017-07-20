@@ -14,6 +14,17 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+.project
+.classpath
+.jar
+.lst
+**/.settings
+**/target
+
+# IntelliJ project files
+.idea
+*.iml
+
 # Windows shortcuts
 *.lnk
 
